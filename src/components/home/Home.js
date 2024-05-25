@@ -1,6 +1,6 @@
 import React from "react";
 
-class Stocks extends React.Component{
+class Home extends React.Component{
 
     constructor(props) {
         super(props);
@@ -15,10 +15,10 @@ class Stocks extends React.Component{
     render() {
       return (
         <React.Fragment>
-          <p className="h4">Stocks Component</p>
+            
         </React.Fragment>
       )
     }
 }
 
-export default Stocks;
+export default Home;

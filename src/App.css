@@ -29,3 +29,13 @@
 .btn-light, .bg-light{
     background: linear-gradient(45deg, darkslategray, lightgray);
 }
+
+
+.landing-page{
+    background: white url('assets/img/bg-image.jpg') no-repeat scroll center;
+    height: 100vh;
+}
+
+.wrapper{
+    
+}

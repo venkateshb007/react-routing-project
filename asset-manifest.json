@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-routing-project/static/css/main.da96cfa9.css",
+    "main.js": "/react-routing-project/static/js/main.e859108f.js",
+    "static/media/bg-image.jpg": "/react-routing-project/static/media/bg-image.4913810dab3f6082efb9.jpg",
+    "index.html": "/react-routing-project/index.html",
+    "static/media/arrow_left.svg": "/react-routing-project/static/media/arrow_left.db6e2d88c7c35a775ce4.svg",
+    "static/media/arrow_right.svg": "/react-routing-project/static/media/arrow_right.f7c6ac6d310d3b82f0a0.svg",
+    "main.da96cfa9.css.map": "/react-routing-project/static/css/main.da96cfa9.css.map",
+    "main.e859108f.js.map": "/react-routing-project/static/js/main.e859108f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da96cfa9.css",
+    "static/js/main.e859108f.js"
+  ]
+}

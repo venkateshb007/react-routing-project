@@ -12,8 +12,8 @@ import StockDetails from "./components/stocks/StockDetails";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
-        <Navbar/>
+      <BrowserRouter basename="/react-routing-project">
+        <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/employees" element={<Employees />} />
@@ -25,6 +25,6 @@ function App() {
       </BrowserRouter>
     </div>
   );
-} 
+}
 
 export default App;

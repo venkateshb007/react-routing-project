@@ -1,6 +1,6 @@
 import React from "react";
 import axios from "axios";
-import { json } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 class Employees extends React.Component{
 
@@ -63,7 +63,7 @@ class Employees extends React.Component{
                                   <td>
                                     <img src={employee.picture.large} width="50" height="50" alt="" />
                                   </td>
-                                  <td>{employee.name.first} {employee.name.last}</td>
+                                  <Link to={`/employees/${employee.login.uuid}`}>{employee.name.first} {employee.name.last}</Link>
                                   <td>{employee.dob.age} Yrs.</td>
                                   <td>{employee.email}</td>
                                   <td>{employee.location.city}</td>

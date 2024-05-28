@@ -1,3 +1,6 @@
+Project Deployed Link == ```https://venkateshb007.github.io/react-routing-project/```
+
+
 # React Routing Project
 
 This is a simple React project demonstrating routing with `react-router-dom`. The project lists employees and stocks, with detailed views for each item.

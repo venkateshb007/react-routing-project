@@ -28,11 +28,11 @@ class Employees extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <div className="container mt-3">
+        <div className="container mt-5">
           <div className="row">
             <div className="col">
               <p className="h3 text-primary">Employees</p>
-              <p className="lead">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit beatae, ipsum, modi quod saepe blanditiis, amet consequuntur illo ducimus similique dolorum in neque facilis. Quibusdam doloremque commodi quaerat expedita dolorum?</p>
+              <p className="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore tempore praesentium facere eos optio, commodi et velit ipsum aliquid. Molestiae asperiores iure at id dolorum molestias est commodi eveniet provident eaque omnis, animi, dicta harum reprehenderit architecto mollitia amet maxime?</p>
             </div>
           </div>
           <div className="row">
